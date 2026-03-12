@@ -12,10 +12,10 @@
 - [ ] **스코어/잔액 관리**: 간단한 가상 포인트 시스템 (초기 설정).
 
 ## 3. 디자인 원칙 (Design Principles) - by Jenny
-- **Background**: #F9F7F2 (한지 미색, 부드러운 질감 강조)
-- **Typography**: 먹색 (#2C2C2C, Pretendard 또는 명조체 계열)
-- **Animation**: 부드럽고 점진적인 가속/감속 (Ease-in-out), 인위적이지 않은 움직임.
-- **Mood**: 정적인 아름다움, 불필요한 장식(반짝이는 효과 등) 배제.
+- **Background**: #000000 (심연의 블랙, 네온 대비 극대화)
+- **Typography**: 금색 그라데이션 및 네온 글로우가 적용된 볼드한 서체.
+- **Animation**: 릴 정지 시 화면 흔들림(Screen Shake), 당첨 시 화려한 폭죽 및 코인 분수 효과.
+- **Mood**: 라스베가스 카지노의 B급 감성, 시각적 도파민 자극.
 
 ## 4. 기술 제약 사항 (Technical Constraints) - by Kero
 - **Platform**: Android (Compose Multiplatform 기반)

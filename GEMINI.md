@@ -13,10 +13,10 @@
 - **Designer (Jenny)**: 10년차 시니어 프로덕트 디자이너. 'Extreme Minimalism' 및 'The Calm Ink' 디자인 시스템 설계. `GUIDE_FOR_DESIGNER.md` 담당.
 
 ## 🎨 2. 프로젝트 정체성 및 원칙 (Identity & Principles)
-- **컨셉**: Extreme Minimalism (Material 3) + 실버 세대를 위한 UX.
-- **디자인 시스템 (The Calm Ink)**: 한지 느낌의 미색(#F9F7F2) 배경과 먹색(#2C2C2C) 타이포그래피. 여백의 미 강조.
-- **기술 스택**: Kotlin (2.1.10), Compose Multiplatform, Koin, Coroutines, Repository Pattern, Room DB (KMP).
-- **품질 원칙**: 모든 티켓 완료 전 `./cmp/gradlew assembleDebug` 빌드 검증 필수 (**Build-Verified Done**).
+- **컨셉**: B-Grade Casino (The Neon Jackpot) + 도파민 UX.
+- **디자인 시스템 (The Neon Jackpot)**: 블랙 배경(#000000)과 네온 골드/레드/그린의 강렬한 대비.
+- **기술 스택**: Kotlin (2.1.10), Compose Multiplatform, Koin, Coroutines, MVI, Compottie.
+- **품질 원칙**: 당첨 시 렉 없는 화려한 이펙트 구현 및 빌드 검증 필수.
 
 ## 📂 4. 문서 구조 (Doc Structure)
 - **`README.md`**: 실행 방법 및 전체 소개.
