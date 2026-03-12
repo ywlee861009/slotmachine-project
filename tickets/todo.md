@@ -10,6 +10,6 @@
 - [ ] [TICKET-005] [Dev-Kero] Implement Lever UI & Drag Interaction
 - [ ] [TICKET-006] [Dev-Kero] Slot Reel Logic & Result Calculation Engine
 
-## 🎨 Phase 3: Polish
-- [ ] [TICKET-007] [Dev-Kero] Slot Spin Animation & Visual Effects
-- [ ] [TICKET-008] [Designer-Jenny] Win/Loss Feedback UI Design & Implementation
+## 💰 Phase 4: Data & Economy
+- [ ] [TICKET-009] [Dev-Kero] Ad SDK Integration (AdMob) & Rewarded Ad Logic
+- [ ] [TICKET-010] [Dev-Kero] Local Credit Management (DataStore) & Refill UI Implementation
