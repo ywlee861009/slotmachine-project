@@ -5403,6 +5403,7 @@
               "content": "SunSet",
               "fontFamily": "Inter",
               "fontSize": 16,
+              "fontWeight": "normal",
               "letterSpacing": 3
             },
             {
@@ -5755,7 +5756,8 @@
               "fill": "#666666",
               "content": "B-GRADE PACHINKO STYLE  ·  2026",
               "fontFamily": "Inter",
-              "fontSize": 12
+              "fontSize": 12,
+              "fontWeight": "normal"
             }
           ]
         },
@@ -7308,7 +7310,8 @@
                       "fill": "#666666",
                       "content": "INSERT COIN  /  COIN PAYOUT",
                       "fontFamily": "Inter",
-                      "fontSize": 10
+                      "fontSize": 10,
+                      "fontWeight": "normal"
                     },
                     {
                       "type": "text",
